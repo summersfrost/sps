@@ -1,0 +1,282 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\COMPESA EVENT HANDLER.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\.dotnet\tools;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\src\flutter\bin;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\User\AppData\Roaming\npm;C:\PROGRA~1\Java\JDK18~1.0_1\bin
+JRE paths:	;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\.dotnet\tools;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\src\flutter\bin;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\User\AppData\Roaming\npm;C:\PROGRA~1\Java\JDK18~1.0_1\bin
+Check launcher:	C:\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\WiFi\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Intel\WirelessCommon\bin\javaw.exe (not found)
+Check launcher:	C:\iverilog\bin\javaw.exe (not found)
+Check launcher:	C:\iverilog\gtkwave\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\src\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	frosttech.neweventhandler.NewEventHandler
+Info:		Classpath not defined.
+Launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\COMPESA EVENT HANDLER.exe" frosttech.neweventhandler.NewEventHandler
+Args length:	162/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\COMPESA EVENT HANDLER.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\.dotnet\tools;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\src\flutter\bin;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\User\AppData\Roaming\npm;C:\PROGRA~1\Java\JDK18~1.0_1\bin
+JRE paths:	;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\.dotnet\tools;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\src\flutter\bin;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\User\AppData\Roaming\npm;C:\PROGRA~1\Java\JDK18~1.0_1\bin
+Check launcher:	C:\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\WiFi\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Intel\WirelessCommon\bin\javaw.exe (not found)
+Check launcher:	C:\iverilog\bin\javaw.exe (not found)
+Check launcher:	C:\iverilog\gtkwave\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\src\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	frosttech.neweventhandler.NewEventHandler
+Info:		Classpath not defined.
+Launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\COMPESA EVENT HANDLER.exe" frosttech.neweventhandler.NewEventHandler
+Args length:	162/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\COMPESA EVENT HANDLER.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\.dotnet\tools;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\src\flutter\bin;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\User\AppData\Roaming\npm;C:\PROGRA~1\Java\JDK18~1.0_1\bin
+JRE paths:	;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\.dotnet\tools;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\src\flutter\bin;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\User\AppData\Roaming\npm;C:\PROGRA~1\Java\JDK18~1.0_1\bin
+Check launcher:	C:\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\WiFi\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Intel\WirelessCommon\bin\javaw.exe (not found)
+Check launcher:	C:\iverilog\bin\javaw.exe (not found)
+Check launcher:	C:\iverilog\gtkwave\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\src\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	frosttech.neweventhandler.NewEventHandler
+Info:		Classpath not defined.
+Launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\COMPESA EVENT HANDLER.exe" frosttech.neweventhandler.NewEventHandler
+Args length:	162/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\COMPESA EVENT HANDLER.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.004.002
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\.dotnet\tools;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\src\flutter\bin;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\User\AppData\Roaming\npm;C:\PROGRA~1\Java\JDK18~1.0_1\bin
+JRE paths:	;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\.dotnet\tools;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\src\flutter\bin;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\User\AppData\Roaming\npm;C:\PROGRA~1\Java\JDK18~1.0_1\bin
+Check launcher:	C:\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\WiFi\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Intel\WirelessCommon\bin\javaw.exe (not found)
+Check launcher:	C:\iverilog\bin\javaw.exe (not found)
+Check launcher:	C:\iverilog\gtkwave\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\src\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	frosttech.neweventhandler.NewEventHandler
+Info:		Classpath not defined.
+Launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\COMPESA EVENT HANDLER.exe" frosttech.neweventhandler.NewEventHandler
+Args length:	162/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\COMPESA EVENT HANDLER.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.004.002
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\.dotnet\tools;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\src\flutter\bin;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\User\AppData\Roaming\npm;C:\PROGRA~1\Java\JDK18~1.0_1\bin
+JRE paths:	;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\.dotnet\tools;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\src\flutter\bin;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\User\AppData\Roaming\npm;C:\PROGRA~1\Java\JDK18~1.0_1\bin
+Check launcher:	C:\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\WiFi\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Intel\WirelessCommon\bin\javaw.exe (not found)
+Check launcher:	C:\iverilog\bin\javaw.exe (not found)
+Check launcher:	C:\iverilog\gtkwave\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\src\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	frosttech.neweventhandler.NewEventHandler
+Info:		Classpath not defined.
+Launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\COMPESA EVENT HANDLER.exe" frosttech.neweventhandler.NewEventHandler
+Args length:	162/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\COMPESA EVENT HANDLER.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.004.002
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\.dotnet\tools;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\src\flutter\bin;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\User\AppData\Roaming\npm;C:\PROGRA~1\Java\JDK18~1.0_1\bin
+JRE paths:	;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\iverilog\bin;C:\iverilog\gtkwave\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\User\AppData\Local\Microsoft\WindowsApps;C:\Users\User\.dotnet\tools;C:\Users\User\AppData\Local\GitHubDesktop\bin;C:\src\flutter\bin;C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\User\AppData\Roaming\npm;C:\PROGRA~1\Java\JDK18~1.0_1\bin
+Check launcher:	C:\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\WiFi\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Intel\WirelessCommon\bin\javaw.exe (not found)
+Check launcher:	C:\iverilog\bin\javaw.exe (not found)
+Check launcher:	C:\iverilog\gtkwave\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\src\flutter\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe\bin\javaw.exe (not found)
+Check launcher:	C:\Users\User\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe (OK)
+Version string: 1.008.000_111 / 64-Bit (OK)
+Main class:	frosttech.neweventhandler.NewEventHandler
+Info:		Classpath not defined.
+Launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\User\Documents\jakarta ee eventhandler\frostTech_newEventHandler_jar_1.0\COMPESA EVENT HANDLER.exe" frosttech.neweventhandler.NewEventHandler
+Args length:	162/32768 chars
+Exit code:	0
